@@ -12,12 +12,11 @@
     {
       "name": "kksgdhf",
       "link": "http://89.223.123.228/Lvzsmw?utm_source=def&acc=def&sub_id_3={name1}&sub_id_4={name2}&sub_id_5={name3}&sub_id_6={apsf_id}&sub_id_7={app_id}"
-    },
-    {
-      "name": "deeptest",
-      "link": "https://google.com?sub_id_1={name1}&sub_id_2={name2}&sub_id_3={name3}&sub_id_4={apsf_id}&sub_id_5={app_id}"
     }
   ],
+  "deeplinks": {
+    "deeptest": "https://google.com?sub_id_1={name1}&sub_id_2={name2}&sub_id_3={name3}&sub_id_4={apsf_id}&sub_id_5={app_id}"
+  }
   "country_codes": [
     "PT"
    ]
